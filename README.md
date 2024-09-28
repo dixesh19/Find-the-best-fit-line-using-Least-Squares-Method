@@ -17,6 +17,7 @@ STEP 5 :Compute the y -intercept of the line by using the formula:
 STEP 6 :Use the slope m and the y -intercept to form the equation of the line.
 STEP 7 :Obtain the straight line equation Y=mX+b and plot the scatterplot.
 STEP 8 :END
+
 ## Program:
 ```
 /*
