@@ -28,8 +28,8 @@ STEP 8 :END
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: SACHIN M
-RegisterNumber:  212223040177
+Developed by: NARENDHARAN.M
+RegisterNumber:  212223230134
 */
 
 import numpy as np
