@@ -69,6 +69,7 @@ print(Y_predicted)
 
 #to plot graphplt.scatter(X,Y)
 
+plt.scatter(X,Y)
 plt.plot(X,Y_predicted,color="red")
 plt.show()
 
