@@ -76,14 +76,9 @@ plt.show()
 ```
 
 ## Output:
-# SLOPE AND Y-INTERCEPT:
-![Screenshot 2024-08-23 105446](https://github.com/user-attachments/assets/ec7cdb04-e2c5-4981-a98f-226160c3eb41)
 
-# Y PREDICTED:
-![Screenshot 2024-08-23 105452](https://github.com/user-attachments/assets/589b2574-03d5-48e8-8459-acd8a5938197)
+![image](https://github.com/user-attachments/assets/b55aa23a-71ee-4c1d-bc8d-6b1b6710656b)
 
-# GRAPH:
-![Screenshot 2024-08-23 105459](https://github.com/user-attachments/assets/bc7bd28d-0caa-41c7-816a-6198d90317c9)
 
 
 ## Result:
